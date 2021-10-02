@@ -1,0 +1,27 @@
+name: flutter_scoped_model_1
+
+description: Flutter state management with Scoped Model
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.9.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.3
+  device_preview: ^0.7.4
+  flutter:
+    sdk: flutter
+  responsive_framework: ^0.1.4
+  scoped_model: ^1.1.0
+  sizer: ^2.0.15
+
+dev_dependencies:
+  build_runner: ^2.1.2
+  dart_code_metrics: ^4.3.3
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^2.3.0
+
+flutter:
+  uses-material-design: true
